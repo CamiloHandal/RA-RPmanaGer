@@ -4,4 +4,4 @@ Entidades: Personagens, Inimigos e Coadjuvantes.
 Tecnologias: JSP, Gson, JSON e Tomcat.
 Diagrama:Imagem do diagrama de classes no repo
 
-Como executar o projeto: Entre no Eclipse e clone o repositório.
+Como executar o projeto: Entre no Eclipse, clone o repositório no seu computador e o abra no Eclipse.
